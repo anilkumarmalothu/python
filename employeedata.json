@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "anil",
+        "address": "chennai",
+        "department": "admin"
+    },
+    {
+        "id": 2,
+        "name": "bala",
+        "address": "chennai",
+        "department": "admin"
+    },
+    {
+        "id": 3,
+        "name": "sreeram",
+        "address": "chennai",
+        "department": "admin"
+    }
+]

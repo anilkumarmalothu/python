@@ -1,0 +1,20 @@
+{
+    "E001": {
+        "id": "E001",
+        "name": "surithika",
+        "address": "chennai",
+        "department": "it"
+    },
+    "E002": {
+        "id": "E002",
+        "name": "anil",
+        "address": "chennai",
+        "department": "admin"
+    },
+    "E003": {
+        "id": "E003",
+        "name": "sreeram",
+        "address": "chennai",
+        "department": "hr"
+    }
+}
