@@ -7,7 +7,7 @@ def display(id):
     return f"done with the task {id}"
 start=perf_counter()
 with ThreadPoolExecutor() as executor:
-    f1=executor.submit(display,1)#returns a object called future on success and exception on failure
+    f1=executor.submit(display,1)#returns a object called future with result on success and exception on failure
     f2=executor.submit(display,2)
 
 print(f1.result())#future object will have result() or exception()
